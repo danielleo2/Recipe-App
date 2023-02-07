@@ -1,15 +1,15 @@
 {
-  "main.css": "/%7BRecipe-App%7D/static/css/main.c4eac2d5.chunk.css",
-  "main.js": "/%7BRecipe-App%7D/static/js/main.b7153f3b.chunk.js",
-  "main.js.map": "/%7BRecipe-App%7D/static/js/main.b7153f3b.chunk.js.map",
-  "static/css/1.2ac557f1.chunk.css": "/%7BRecipe-App%7D/static/css/1.2ac557f1.chunk.css",
-  "static/js/1.bd49ab61.chunk.js": "/%7BRecipe-App%7D/static/js/1.bd49ab61.chunk.js",
-  "static/js/1.bd49ab61.chunk.js.map": "/%7BRecipe-App%7D/static/js/1.bd49ab61.chunk.js.map",
-  "runtime~main.js": "/%7BRecipe-App%7D/static/js/runtime~main.76ce7b6c.js",
-  "runtime~main.js.map": "/%7BRecipe-App%7D/static/js/runtime~main.76ce7b6c.js.map",
-  "static/css/main.c4eac2d5.chunk.css.map": "/%7BRecipe-App%7D/static/css/main.c4eac2d5.chunk.css.map",
-  "static/css/1.2ac557f1.chunk.css.map": "/%7BRecipe-App%7D/static/css/1.2ac557f1.chunk.css.map",
-  "index.html": "/%7BRecipe-App%7D/index.html",
-  "precache-manifest.d70033ddfc476b587182fa2625a63d23.js": "/%7BRecipe-App%7D/precache-manifest.d70033ddfc476b587182fa2625a63d23.js",
-  "service-worker.js": "/%7BRecipe-App%7D/service-worker.js"
+  "main.css": "/Recipe-App/static/css/main.c4eac2d5.chunk.css",
+  "main.js": "/Recipe-App/static/js/main.b7153f3b.chunk.js",
+  "main.js.map": "/Recipe-App/static/js/main.b7153f3b.chunk.js.map",
+  "static/css/1.2ac557f1.chunk.css": "/Recipe-App/static/css/1.2ac557f1.chunk.css",
+  "static/js/1.ab0425a5.chunk.js": "/Recipe-App/static/js/1.ab0425a5.chunk.js",
+  "static/js/1.ab0425a5.chunk.js.map": "/Recipe-App/static/js/1.ab0425a5.chunk.js.map",
+  "runtime~main.js": "/Recipe-App/static/js/runtime~main.6e40b993.js",
+  "runtime~main.js.map": "/Recipe-App/static/js/runtime~main.6e40b993.js.map",
+  "static/css/main.c4eac2d5.chunk.css.map": "/Recipe-App/static/css/main.c4eac2d5.chunk.css.map",
+  "static/css/1.2ac557f1.chunk.css.map": "/Recipe-App/static/css/1.2ac557f1.chunk.css.map",
+  "index.html": "/Recipe-App/index.html",
+  "precache-manifest.71a84bcd8a13c18a4897a136b33ae2d5.js": "/Recipe-App/precache-manifest.71a84bcd8a13c18a4897a136b33ae2d5.js",
+  "service-worker.js": "/Recipe-App/service-worker.js"
 }
